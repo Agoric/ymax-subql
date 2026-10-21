@@ -33,6 +33,8 @@ Sources of latency:
 
 ## Developing
 
+Use Node.js 22.23.4 or a newer 22.x release, as specified in `.node-version` and `package.json`.
+
 ### IDE
 
 For your IDE to resolve all the files, run `yarn codegen && yarn build`.
