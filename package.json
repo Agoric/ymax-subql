@@ -2,6 +2,9 @@
   "name": "agoric-indexer",
   "private": true,
   "version": "0.0.1",
+  "engines": {
+    "node": "^22.23.4"
+  },
   "description": "This is the SubQuery project for indexing the Agoric chain",
   "main": "dist/index.js",
   "scripts": {
